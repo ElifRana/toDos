@@ -4,7 +4,7 @@ Integrated Development Environment : EclipseIDEA
 ## Built With
 
 ## Database Diagram
-![datebaseDiagram](https://github.com/canozyigiit/ToDoWepProject/blob/master/TodoDB.png)
+![datebaseDiagram](https://github.com/ElifRana/toDos/blob/main/ToDoDatabase.png)
 
 ## Useful Links
 
